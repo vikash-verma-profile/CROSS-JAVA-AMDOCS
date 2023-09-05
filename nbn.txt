@@ -1,0 +1,8 @@
+https://github.com/vikash-verma-profile/CROSS-JAVA-AMDOCS
+
+npm install json-server --save
+npm install
+json-server --watch db.json
+
+
+http://www.dneonline.com/calculator.asmx?wsdl

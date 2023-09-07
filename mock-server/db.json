@@ -11,6 +11,16 @@
       "CustomerID": "2",
       "CustomerName": "Vikash Verma",
       "CustomerAmount": "10000"
+    },
+    {
+      "CustomerName": "100",
+      "CustomerAmount": "100",
+      "id": 3
+    },
+    {
+      "CustomerName": "Sandeep ",
+      "CustomerAmount": "1",
+      "id": 4
     }
   ]
 }
